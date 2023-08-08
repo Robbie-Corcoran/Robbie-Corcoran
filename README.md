@@ -12,7 +12,7 @@
 - Dedicated Full-Stack developer
 - Passionate about Front-End
 - Highly curious about Back-End
-- Currently learning Java developement with \<\/salt\>
+- Graduated and working as a Java developer with \<\/salt\>
 - Always open to collabs, career opportunities, and discussions about tech!
 
 <br>
