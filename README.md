@@ -11,7 +11,7 @@
 - Born in Dublin, based in Amsterdam
 - Dedicated Full-Stack developer
 - Passionate about Front-End & UX/UI
-- Excited about Back-End
+- Amazed by Back-End
 - Graduated and working as a Java developer with \<\/salt\>
 - Always open to collabs, career opportunities, and discussions about tech!
 
