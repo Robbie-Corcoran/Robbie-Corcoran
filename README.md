@@ -9,10 +9,8 @@
 <br>
 
 - Born in Dublin, based in Amsterdam
-- Dedicated Full-Stack developer
-- Passionate about Front-End & UX/UI
-- Amazed by Back-End
-- Graduated and working as a Java developer with \<\/salt\>
+- Working as a Java Developer with Pluq
+- Graduated as a Full Stack Java developer from \<\/salt\>
 - Always open to collabs, career opportunities, and discussions about tech!
 
 <br>
